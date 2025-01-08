@@ -43,7 +43,7 @@
     "tdesign-vue-next": "1.9.9",
     "tinymce": "^7.3.0",
     "tvision-color": "^1.6.0",
-    "vue": "~3.3.13",
+    "vue": "^3.5.11",
     "vue-cropper": "^1.1.4",
     "vue-i18n": "^9.14.0",
     "vue-router": "^4.4.3"
